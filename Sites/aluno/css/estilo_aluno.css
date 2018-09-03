@@ -1,0 +1,116 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #040F16;
+}
+.container{
+	margin: 1em auto;
+	width: 95%;
+	
+}
+.header{
+	
+}
+.header h3{
+	color: #6B6965;
+}
+.perfil{
+	width: 230px;
+	height: 250px;
+	background: #060000;
+	border-radius: 20px;
+}
+.perfil h3{
+	
+color: #fff;
+	font-size: 16px;
+	position: relative;
+	bottom: 50px;
+	padding: 15px 30px;
+}
+.perfil img{
+	width: 190px;
+	height: 190px;
+	text-align: center;
+	padding: 15px;
+}
+.opcoes h2 , .a1{
+	width: 100px;
+	height: 30px;
+	float: right;
+	position: relative;
+	top: -250px;
+	color: #fff;
+	
+}
+.main_nav{
+	background: #021B36;
+	height: 40px;
+
+	
+}
+.main_nav li{
+	display: inline-block;
+	padding: 0px 30px;
+	margin-top: 10px;
+	font-size: 20px;
+}
+.main_nav li a{
+	color: #FFF;
+}
+.main_nav li a:hover{
+	color: #012D43;
+}
+.menu{
+	margin-top: 10px;
+	float: right;
+	width: 365px;
+	background: #021B36;
+
+}
+.menu h3{
+	color: #C0C1CB;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+       }
+.menu li{
+	display: block;
+	font-size: 15px;
+	color: white;
+	margin-left: 40px;
+	text-align: center;
+	padding: 3px 0px;
+
+} 
+.menu li a{
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
+}
+.contants{
+	float: left;
+	width: 740px;
+	background: #021B36;
+    height: 340px;
+	color: white;
+	border-radius: 2px;
+	margin-top: 10px;
+}
+.contants p, h2{
+	color: #767575;
+	font-size: 16px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: center;
+}
+.contants h2{
+	color: aqua;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: center;
+}
+footer{
+	clear: both;
+	background: #EC5557;
+	height: 40px;
+}

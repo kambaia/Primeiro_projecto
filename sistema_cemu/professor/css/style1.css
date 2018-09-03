@@ -1,0 +1,41 @@
+body{
+    background: #66afe9;
+}
+.container{
+    background: #fff;
+    border-radius: 4px;
+    height: 450px;
+    width: 410px;
+    box-shadow: -1px 3px 10px #222;
+}
+.form{
+    background: #ddd;
+    border-radius: 4px;
+  }
+.bg-btn{
+    background: #66afe9;
+    border: 1px solid #66afe9;
+}
+.img_logo{
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    background: #fff;
+    margin-top: -85px;
+    border: 2px solid #66afe9;
+}
+.img_logo img{
+    margin-left: 6px;
+    margin-top: 19px;
+}
+.arearestrita{
+    color: #66afe9;
+    font-weight: 500;
+    border-bottom: 2px solid #66afe9;
+}
+.login{
+    width: 330px;
+    height: 350px;
+    margin: 0 auto;
+    
+}

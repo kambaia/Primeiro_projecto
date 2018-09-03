@@ -1,0 +1,14 @@
+body{
+	background: #041732;
+}
+.tabela{
+	margin:auto;
+	height: 200px;
+	width: 90%;
+	background: #688079;
+	color: #FFF;
+}
+.tabela td{
+	background: #7E0F0F;
+	color: #FFF;
+}

@@ -1,0 +1,70 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #002142;
+}
+.jumbotron{
+	width: 600px;
+	height: 480px;
+	margin: auto;
+	position: relative;
+	top: 120px;
+	background-color: rgba(23,0,20,0.5);
+	box-shadow: 2px 1px 2px 2px	#000000;
+}
+.container{
+
+	height: 100px;
+	width: 100%;
+}
+.container img{
+	margin: auto;
+	position: absolute;
+	top: -10px;
+	left: 600px;
+	border-radius: 220px;
+}
+.box1 h2{
+	position:absolute;
+	top: 150px;
+	left: 410px;
+	text-align: center;
+	width: 550px;
+	height: 40px;
+	background-color:#0080ff;
+}
+.box2 h5{
+	color: #DB0F12;
+}
+
+.container h4{
+ color: #fff;	
+}
+.h5{
+ color: #fff;	
+}
+.container form{
+	position: relative;
+	top: 20px;
+	display: unset;
+	left: 30px;
+}
+.container form .testo2{
+	width: 500px;
+	height: 40px;
+	border-radius: 10px;
+	font-size: 20px;
+}
+.container form .botao{
+	position: relative;
+	width: 100px;
+	height: 30px;
+	top: 20px;
+	border-radius: 5px;
+	background-color: #0080ff;
+}
+.container form h6{
+	color: #fff;
+}
